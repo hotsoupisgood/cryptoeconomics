@@ -1,5 +1,4 @@
-# Awesome Cryptoeconomics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome resources for Cryptoeconomics research
+# Cryptoeconomics
 
 Looking for contributors. Submit a pull request if you have something to add :)
 
@@ -41,6 +40,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
         -   [King of Ether](#king-of-ether)
         -   [Roulette](#roulette)
 -   [Additional Information](#additional-information-and-related-topics)
+    -   [Cool projects](#cool-projects)
     -   [Behavioural Economics](#behavioural-economics)
     -   [Economics](#economics)
     -   [Cryptography](#cryptography)
@@ -89,7 +89,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan and Jeremy Clark
 
 ### Consensus Mechanisms
-
+#### Snowflake to Avalanche
+1.  [Concept](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) article by ipfs
 #### PoW - Proof of Work
 1.  [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
 1.  [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
@@ -339,6 +340,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Attacking a public RNG](http://martin.swende.se/blog/Breaking_the_house.html) article by Martin Swende on attacking a smart contract that used a public Random Number Generator
 
 # Additional information and related topics
+
+## Cool projects
+1.  [interledger](https://interledger.org) Internet protocol for connecting financial frameworks
 
 ## Behavioural Economics
 1.  [BE Ted Talk](https://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code) Prof. Dan Ariely's Ted Talk on Behavioural Economics
