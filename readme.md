@@ -89,6 +89,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan and Jeremy Clark
 
 ### Consensus Mechanisms
+#### Proof of Bet
+1.  [Concept](https://blog.ethereum.org/2015/12/28/understanding-serenity-part-2-casper/) on Ethereum blog
 #### Snowflake to Avalanche
 1.  [Concept](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) article by ipfs
 #### PoW - Proof of Work
